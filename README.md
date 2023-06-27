@@ -22,3 +22,4 @@
    - [ Передача аргументов](https://lab.karpov.courses/learning/251/module/2491/lesson/22587/65104/303979/)
  - [ УСТАНОВКА И НАСТРОЙКА AIRFLOW](https://lab.karpov.courses/learning/251/module/2491/lesson/22589/65114/303998/)
  - [ РАЗРАБОТКА СВОИХ ПЛАГИНОВ](https://lab.karpov.courses/learning/251/module/2491/lesson/22590/65118/304008/)
+ - [ *** Список литературы по Airflow ***](https://lab.karpov.courses/learning/251/module/2491/lesson/22590/65122/304023/)
